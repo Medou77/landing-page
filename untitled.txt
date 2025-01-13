@@ -3,6 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحة هبوط</title>
+    <style>
+        .cta-button {
+            background-color: #FF5722; /* اللون البرتقالي */
+            color: white; /* النص أبيض */
+            padding: 15px 30px; /* المسافة حول النص */
+            text-align: center;
+            border-radius: 5px; /* حواف الزر مستديرة */
+            font-size: 18px;
+            display: inline-block;
+            text-decoration: none;
+        }
+        .cta-button:hover {
+            background-color: #e64a19; /* تغيير اللون عند تحريك الفأرة فوق الزر */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>مرحبا في صفحتك الخاصة!</h1>
+    <p>هل ترغب في كسب المال بسهولة؟</p>
+
+    <!-- زر CTA -->
+    <section>
+        <a href="https://smrturl.co/a/s71f743d5c2/86?s1=" target="_blank" class="cta-button">
+            سجل الآن وابدأ الكسب!
+        </a>
+    </section>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>فرصتك للربح عبر الإنترنت</title>
     <style>
         body {
